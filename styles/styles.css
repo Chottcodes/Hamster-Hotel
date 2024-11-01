@@ -586,11 +586,9 @@ p {
     width: 100%;
     padding-top: 45%;
   }
-  @media screen and (max-width: 375px)
-  {
-    
-    .hotel-galler-container{
-        height: 300px;
+  @media screen and (max-width: 375px) {
+    .hotel-galler-container {
+      height: 300px;
     }
   }
 }
